@@ -1,1 +1,3 @@
 git init - inicializando um repo init
+git commit -m - comentar as modificaçoes
+git push - enviar para o Github
